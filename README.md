@@ -68,49 +68,49 @@ audio {
       </tr>
       <tr>
         <th>
-                <audio controls="" >
+                <audio controls="" style="width: 100px;">
                   <source src="./PY-AP/wav-batch_74_sentence_0-linear.wav" type="audio/mpeg">
                 Your browser does not support the audio element.
                 </audio>
         </th> 
         <th>
-                <audio controls="">
+                <audio controls="" style="width: 100px;">
                   <source src="./PY-AP_AUG/wav-batch_74_sentence_0-linear.wav" type="audio/mpeg">
                 Your browser does not support the audio element.
                 </audio>
         </th>
         <th>
-                <audio controls="">
+                <audio controls="" style="width: 100px;">
                   <source src="./PY-UP/wav-batch_74_sentence_0-linear.wav" type="audio/mpeg">
                 Your browser does not support the audio element.
                 </audio>
         </th>
         <th>
-                <audio controls="">
+                <audio controls="" style="width: 100px;">
                   <source src="./PY-UP_AUG/wav-batch_74_sentence_0-linear.wav" type="audio/mpeg">
                 Your browser does not support the audio element.
                 </audio>
         </th>  
         <th>
-                <audio controls="">
+                <audio controls="" style="width: 100px;">
                   <source src="./PY-PY/wav-batch_74_sentence_0-linear.wav" type="audio/mpeg">
                 Your browser does not support the audio element.
                 </audio>
         </th> 
         <th>
-                <audio controls="">
+                <audio controls="" style="width: 100px;">
                   <source src="./PY-PY_AUG/wav-batch_74_sentence_0-linear.wav" type="audio/mpeg">
                 Your browser does not support the audio element.
                 </audio>
         </th>
         <th>
-                <audio controls="">
+                <audio controls="" style="width: 100px;">
                   <source src="./PY-PH/wav-batch_74_sentence_0-linear.wav" type="audio/mpeg">
                 Your browser does not support the audio element.
                 </audio>
         </th>
         <th>
-                <audio controls="">
+                <audio controls="" style="width: 100px;">
                   <source src="./PY-PH_AUG/wav-batch_74_sentence_0-linear.wav" type="audio/mpeg">
                 Your browser does not support the audio element.
                 </audio>
