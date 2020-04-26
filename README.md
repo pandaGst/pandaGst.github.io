@@ -18,7 +18,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 audio {
-  width: 250px;
+  width: 180px !important;
   margin-right: 10px;
 }
 .sample {
